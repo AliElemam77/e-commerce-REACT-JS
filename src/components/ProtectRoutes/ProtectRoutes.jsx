@@ -1,5 +1,4 @@
 import { useState, useEffect } from "react";
-import style from "./protectRoutes.module.css";
 import { Navigate } from "react-router-dom";
 
 export default function ProtectRoutes(props) {

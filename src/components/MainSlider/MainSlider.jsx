@@ -1,5 +1,4 @@
 import { useState, useEffect } from "react";
-import style from "./mainSlider.module.css";
 
 export default function MainSlider() {
   const [count, setCount] = useState(0);

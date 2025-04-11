@@ -1,5 +1,4 @@
 import { useState, useEffect, useContext } from "react";
-import style from "./home.module.css";
 import { CounterContext } from "../../Context/counterContext";
 import RecentProduct from "../recentProduct/recentProduct";
 import CategorySlider from "../CategorySlider/CategorySlider";

@@ -1,5 +1,4 @@
 import { useState, useEffect, useContext } from "react";
-import style from "./register.module.css";
 import { useFormik } from "formik";
 import * as Yup from "yup";
 import axios from "axios";

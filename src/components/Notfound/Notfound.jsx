@@ -1,5 +1,4 @@
 import { useState, useEffect } from "react";
-import style from "./notfound.module.css";
 
 export default function Notfound() {
   const [count, setCount] = useState(0);

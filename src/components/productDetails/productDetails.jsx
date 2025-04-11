@@ -1,5 +1,4 @@
 import { useState, useEffect } from "react";
-import style from "./productDetails.module.css";
 import { Link, useParams } from "react-router-dom";
 import axios from "axios";
 
